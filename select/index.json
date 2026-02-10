@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "想い愛",
+  "base_artist": "Sol",
+  "createdAt": "2026-02-10T06:00:37.213227Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "想い愛 (feat. Aine)",
+      "artist": "Sol",
+      "has_synced": false,
+      "path": "select/pl_01_想い愛_(feat._Aine)_Sol.txt"
+    }
+  ]
+}
